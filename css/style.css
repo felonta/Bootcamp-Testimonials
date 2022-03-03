@@ -122,10 +122,6 @@ body {
 .prev::after {
   background-image: url("../assets/images/icon-prev.svg");
 }
-
-.profile-none {
-  display: none;
-}
 .active {
   display: block;
 }
